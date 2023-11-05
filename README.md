@@ -1,11 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=mkway999&fontColor=08298A&fontSize=40) <br/>
-
-### Study this :point_down:
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&text=mkway999&fontColor=08298A&fontSize=40) 
 <br/>
+
+#### Welcome to my GitHub!:wave:
+<br/>
+
+#### I Studying these :point_down:
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 
-
+</div>
 
 
 
