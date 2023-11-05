@@ -13,6 +13,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=909160)](https://solved.ac/909160)
 
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkway999&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkway999&layout=compact&theme=merko)
+
 </div>
 
 
