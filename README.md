@@ -1,6 +1,6 @@
 <div align="center"> 
   
-![header](https://capsule-render.vercel.app/api?type=Waving&text=mkway999&fontColor=08298A&fontSize=40) 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGragient&text=mkway999&fontColor=08298A&fontSize=40) 
 <br>
 <h3> Welcome to my GitHub!:wave: </h3>
 <br>
