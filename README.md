@@ -26,8 +26,8 @@
 <br>
 <hr>
 
-[![EUNHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkway999&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/mkway999/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkway999&layout=compact&theme=merko)
+[![EUNHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkway999&theme=nord)](https://github.com/mkway999/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkway999&layout=compact&count_private=true&theme=merko)
 <br><br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=909160)](https://solved.ac/909160)
 
