@@ -18,6 +18,8 @@
 <h4> Tools :paperclip:</h4>
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white">
+<img src="https://img.shields.io/badge/editplus-FC390E?style=for-the-badge&logo=editplus&logoColor=white">
+
 <br>
 <br>
 <h4> And My Blog :pencil2:</h4>
