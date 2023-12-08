@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=CCE5FF&text=mkway999&fontColor=08298A&fontSize=40) <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmkway999&count_bg=%239CD9EF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3> Welcome to my GitHub!:wave: </h3>
+<h3> Welcome to my GitHub! :wave: </h3>
 <br>
 <h4> I'm Studying these :books: </h4>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
