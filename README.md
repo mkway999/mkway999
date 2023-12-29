@@ -14,10 +14,10 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <br>
-<!--
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white">
--->
+
 <br>
 <br>
 <h4> Tools :paperclip:</h4>
