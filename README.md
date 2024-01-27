@@ -42,17 +42,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkway999&layout=compact&count_private=true&theme=merko)
 <br><br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=909160)](https://solved.ac/909160)
-<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
-  <div key="6">
-    <a href = "https://oreuda.kr/">
-      <img
-        src=https://oreuda.kr/api/v1/plant/card?nickname=mkway999
-        alt="oreuda"
-      />
-    </a>
-  </div>
-  
-</div>
-</div>
+
 
 </div>
