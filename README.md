@@ -31,7 +31,6 @@
 <img src="https://img.shields.io/badge/editplus-FC390E?style=for-the-badge&logo=editplus&logoColor=white">
 
 <br>
-<br>
 <h4> And My Blog :pencil2:</h4>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=milkyway999&theme=default)](https://milkyway999.tistory.com)
